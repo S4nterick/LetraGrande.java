@@ -1,0 +1,339 @@
+ String [] A = new String [7];
+        A [0] = "  XXXX  ";
+        A [1] = " XX  XX ";
+        A [2] = " XX  XX ";
+        A [3] = " XX  XX ";
+        A [4] = " XXXXXX ";
+        A [5] = " XX  XX ";
+        A [6] = " XX  XX ";
+
+        String [] B = new String [7];
+        B [0] = " XXXXX  ";
+        B [1] = " XX  XX ";
+        B [2] = " XX  XX ";
+        B [3] = " XXXXX  ";
+        B [4] = " XX  XX ";
+        B [5] = " XX  XX ";
+        B [6] = " XXXXX  ";
+
+        String [] C = new String [7];
+        C [0] = " XXXXXX ";
+        C [1] = " XX     ";
+        C [2] = " XX     ";
+        C [3] = " XX     ";
+        C [4] = " XX     ";
+        C [5] = " XX     ";
+        C [6] = " XXXXXX ";
+
+        String [] D = new String [7];
+        D [0] = " XXXXX  ";
+        D [1] = " X    X ";
+        D [2] = " X    X ";
+        D [3] = " X    X ";
+        D [4] = " X    X ";
+        D [5] = " X    X ";
+        D [6] = " XXXXX  ";
+
+        String [] E = new String [7];
+        E [0] = " XXXXXX ";
+        E [1] = " XX     ";
+        E [2] = " XX     ";
+        E [3] = " XXXXXX ";
+        E [4] = " XX     ";
+        E [5] = " XX     ";
+        E [6] = " XXXXXX ";
+
+        String [] F = new String [7];
+        F [0] = " XXXXXX ";
+        F [1] = " XX     ";
+        F [2] = " XX     ";
+        F [3] = " XXXXXX ";
+        F [4] = " XX     ";
+        F [5] = " XX     ";
+        F [6] = " XX     ";
+
+        String [] G = new String [7];
+        G [0] = " XXXXXX ";
+        G [1] = " XX     ";
+        G [2] = " XX     ";
+        G [3] = " XX     ";
+        G [4] = " XX  XX ";
+        G [5] = " XX   X ";
+        G [6] = " XXXXXX ";
+
+        String [] H = new String [7];
+        H [0] = " XX  XX ";
+        H [1] = " XX  XX ";
+        H [2] = " XX  XX ";
+        H [3] = " XXXXXX ";
+        H [4] = " XX  XX ";
+        H [5] = " XX  XX ";
+        H [6] = " XX  XX ";
+
+        String [] I = new String [7];
+        I [0] = " XXXXXX ";
+        I [1] = "   XX   ";
+        I [2] = "   XX   ";
+        I [3] = "   XX   ";
+        I [4] = "   XX   ";
+        I [5] = "   XX   ";
+        I [6] = " XXXXXX ";
+
+        String [] J = new String [7];
+        J [0] = " XXXXXX ";
+        J [1] = "     X  ";
+        J [2] = "     X  ";
+        J [3] = "     X  ";
+        J [4] = " X   X  ";
+        J [5] = " X   X  ";
+        J [6] = "  XXXX  ";
+
+        String [] K = new String [7];
+        K [0] = " XX  XX ";
+        K [1] = " XX  X  ";
+        K [2] = " XX XX  ";
+        K [3] = " XXXX   ";
+        K [4] = " XX XX  ";
+        K [5] = " XX  X  ";
+        K [6] = " XX  XX ";
+
+        String [] L = new String [7];
+        L [0] = " XX     ";
+        L [1] = " XX     ";
+        L [2] = " XX     ";
+        L [3] = " XX     ";
+        L [4] = " XX     ";
+        L [5] = " XX     ";
+        L [6] = " XXXXXX ";
+
+        String [] M = new String [7];
+        M [0] = " X     X ";
+        M [1] = " XX   XX ";
+        M [2] = " XXX XXX ";
+        M [3] = " XX X XX ";
+        M [4] = " XX   XX ";
+        M [5] = " XX   XX ";
+        M [6] = " XX   XX ";
+
+        String [] N = new String [7];
+        N [0] = " XX   X ";
+        N [1] = " XX   X ";
+        N [2] = " XXX  X ";
+        N [3] = " X XX X ";
+        N [4] = " X XX X ";
+        N [5] = " X  XXX ";
+        N [6] = " X   XX ";
+
+        String [] O = new String [7];
+        O [0] = "  XXXX  ";
+        O [1] = " X    X ";
+        O [2] = " X    X ";
+        O [3] = " X    X ";
+        O [4] = " X    X ";
+        O [5] = " X    X ";
+        O [6] = "  XXXX  ";
+
+        String [] P = new String [7];
+        P [0] = " XXXXX  ";
+        P [1] = " X    X ";
+        P [2] = " X    X ";
+        P [3] = " XXXXX  ";
+        P [4] = " XX     ";
+        P [5] = " XX     ";
+        P [6] = " XX     ";
+
+        String [] Q = new String [7];
+        Q [0] = "  XXXX  ";
+        Q [1] = " X    X ";
+        Q [2] = " X    X ";
+        Q [3] = " X    X ";
+        Q [4] = " X  X X ";
+        Q [5] = " X  XXX ";
+        Q [6] = "  XXXXX ";
+
+        String [] R = new String [7];
+        R [0] = " XXXXX  ";
+        R [1] = " X    X ";
+        R [2] = " X    X ";
+        R [3] = " XXXXX  ";
+        R [4] = " XXXX   ";
+        R [5] = " XX  X  ";
+        R [6] = " XX  XX ";
+
+        String [] S = new String [7];
+        S [0] = " XXXXXX ";
+        S [1] = " XX     ";
+        S [2] = " XX     ";
+        S [3] = " XXXXX  ";
+        S [4] = "     XX ";
+        S [5] = "     XX ";
+        S [6] = " XXXXXX ";
+
+        String [] T = new String [7];
+        T [0] = " XXXXXX ";
+        T [1] = "   XX   ";
+        T [2] = "   XX   ";
+        T [3] = "   XX   ";
+        T [4] = "   XX   ";
+        T [5] = "   XX   ";
+        T [6] = "   XX   ";
+
+        String [] U = new String [7];
+        U [0] = " X    X ";
+        U [1] = " X    X ";
+        U [2] = " X    X ";
+        U [3] = " X    X ";
+        U [4] = " X    X ";
+        U [5] = " X    X ";
+        U [6] = "  XXXX  ";
+
+        String [] V = new String [7];
+        V [0] = " X    X ";
+        V [1] = " X    X ";
+        V [2] = " X    X ";
+        V [3] = " XX  XX ";
+        V [4] = "  XXXX  ";
+        V [5] = "   XX   ";
+        V [6] = "   XX   ";
+
+        String [] W = new String [7];
+        W [0] = " X     X";
+        W [1] = " X     X";
+        W [2] = " X     X";
+        W [3] = " X  X  X";
+        W [4] = " X X X X";
+        W [5] = " XXX XXX";
+        W [6] = "  X   X ";
+
+        String [] X = new String [7];
+        X [0] = " XX  XX ";
+        X [1] = " XX  XX ";
+        X [2] = " XXXXXX ";
+        X [3] = "  XXXX  ";
+        X [4] = " XXXXXX ";
+        X [5] = " XX  XX ";
+        X [6] = " XX  XX ";
+
+        String [] Y = new String [7];
+        Y [0] = " X    X ";
+        Y [1] = " X    X ";
+        Y [2] = " XX  XX ";
+        Y [3] = "  XXXX  ";
+        Y [4] = "   XX   ";
+        Y [5] = "   XX   ";
+        Y [6] = "   XX   ";
+
+        String [] Z = new String [7];
+        Z [0] = " XXXXXX ";
+        Z [1] = "      X ";
+        Z [2] = "      X ";
+        Z [3] = "    X   ";
+        Z [4] = "  X     ";
+        Z [5] = " X      ";
+        Z [6] = " XXXXXX ";
+
+        String [] espaco = new String [7];
+        espaco [0] = "   ";
+        espaco [1] = "   ";
+        espaco [2] = "   ";
+        espaco [3] = "   ";
+        espaco [4] = "   ";
+        espaco [5] = "   ";
+        espaco [6] = "   ";
+
+        Scanner in = new Scanner (System.in);
+        System.out.println("Digite uma palavra");
+        String entrada = in.nextLine();
+
+
+        char [] caractere = entrada.toCharArray();
+
+        String fraseGrande = "";
+
+        for(int linha = 0; linha < 7; linha++){
+            for (int pos = 0; pos < caractere.length; pos++){
+                char letra = caractere [pos];
+                if (letra == 'A' || letra == 'a' ){
+                    fraseGrande = fraseGrande + A[linha];
+                }
+                if (letra == 'B' || letra == 'b' ){
+                    fraseGrande = fraseGrande + B[linha];
+                }
+                if (letra == 'C' || letra == 'c'){
+                    fraseGrande = fraseGrande + C[linha];
+                }
+                if (letra == 'D' || letra == 'd'){
+                    fraseGrande = fraseGrande + D[linha];
+                }
+                if (letra == 'E' || letra == 'e'){
+                    fraseGrande = fraseGrande + E[linha];
+                }
+                if (letra == 'F' || letra == 'f'){
+                    fraseGrande = fraseGrande + F[linha];
+                }
+                if (letra == 'G' || letra == 'g'){
+                    fraseGrande = fraseGrande + G[linha];
+                }
+                if (letra == 'H' || letra == 'h'){
+                    fraseGrande = fraseGrande + H[linha];
+                }
+                if (letra == 'I' || letra == 'i'){
+                    fraseGrande = fraseGrande + I[linha];
+                }
+                if (letra == 'J' || letra == 'j'){
+                    fraseGrande = fraseGrande + J[linha];
+                }
+                if (letra == 'K' || letra == 'k'){
+                    fraseGrande = fraseGrande + K[linha];
+                }
+                if (letra == 'L' || letra == 'l'){
+                    fraseGrande = fraseGrande + L[linha];
+                }
+                if (letra == 'M' || letra == 'm'){
+                    fraseGrande = fraseGrande + M[linha];
+                }
+                if (letra == 'N' || letra == 'n'){
+                    fraseGrande = fraseGrande + N[linha];
+                }
+                if (letra == 'O' || letra == 'o'){
+                    fraseGrande = fraseGrande + O[linha];
+                }
+                if (letra == 'P' || letra == 'p'){
+                    fraseGrande = fraseGrande + P[linha];
+                }
+                if (letra == 'Q' || letra == 'q'){
+                    fraseGrande = fraseGrande + Q[linha];
+                }
+                if (letra == 'R' || letra == 'r'){
+                    fraseGrande = fraseGrande + R[linha];
+                }
+                if (letra == 'S' || letra == 's'){
+                    fraseGrande = fraseGrande + S[linha];
+                }
+                if (letra == 'T' || letra == 't'){
+                    fraseGrande = fraseGrande + T[linha];
+                }
+                if (letra == 'U' || letra == 'u'){
+                    fraseGrande = fraseGrande + U[linha];
+                }
+                if (letra == 'V' || letra == 'v'){
+                    fraseGrande = fraseGrande + V[linha];
+                }
+                if (letra == 'W' || letra == 'w'){
+                    fraseGrande = fraseGrande + W[linha];
+                }
+                if (letra == 'X' || letra == 'x'){
+                    fraseGrande = fraseGrande + X[linha];
+                }
+                if (letra == 'Y' || letra == 'y'){
+                    fraseGrande = fraseGrande + Y[linha];
+                }
+                if (letra == 'Z' || letra == 'z'){
+                    fraseGrande = fraseGrande + Z[linha];
+                } else {
+                    fraseGrande = fraseGrande + espaco[linha];
+                }
+            }
+            System.out.println(fraseGrande);
+            fraseGrande = "";
+        }
